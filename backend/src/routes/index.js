@@ -19,5 +19,6 @@ routes.post('/priorities/:id', PriorityController.update)
 routes.post('/contents/:id', ContentController.update)
 
 
+
 module.exports = routes
 

@@ -1,6 +1,8 @@
 <h1>DevNotes</h1>
 <h4>Aplicação de bloco de notas para gerenciamento de tarafeas</h4>
 
+<img src="./frontend/src/assets/image/screen.png" alt="projeto">
+
   🚧 <span>Em construção ...</span> 
 
   <h4>🔧 skills</h4>
