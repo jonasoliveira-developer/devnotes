@@ -1,9 +1,9 @@
 <h1>DevNotes</h1>
 <h4>Aplicação de bloco de notas para gerenciamento de tarafeas</h4>
 
-<img src="./frontend/src/assets/image/screen.png" alt="projeto">
+<img src="./frontend/src/assets/image/screen.gif" alt="projeto">
 
-  🚧 <span>Em construção ...</span> 
+ <span>STATUS:✔️ concluido </span> 
 
   <h4>🔧 skills</h4>
 <ul>
@@ -31,7 +31,8 @@
  <ul>
      <li><strong> comunicação de componentes através de PROPS;</strong></li>
      <li><strong>react HOOKS para melhorar  as logicas dos componentes;</strong></li>
-     <li><strong> Redux para gerenciar o estado global da aplicação;</strong></li>
+     <li><strong>react HOOKS para melhorar  as logicas dos componentes;</strong></li>
+     
 </ul>
 
 

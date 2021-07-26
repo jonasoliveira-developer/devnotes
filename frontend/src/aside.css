@@ -52,7 +52,9 @@ aside form .input-block textarea {
     font-size: 14px;
     color:#666;
     border:none;
-    border-bottom: 1px solid #EEE;
+    border: 1px solid #EEE;
+    padding: 10px;
+    
     background-color: #FFF;
     resize: none;
 }

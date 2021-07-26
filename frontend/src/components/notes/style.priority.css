@@ -1,0 +1,55 @@
+li.notepads-info-priority div {
+    display: flex;
+    justify-content: space-between;
+}
+
+li.notepads-info-priority {
+    background-color: #EB8F7A;
+    box-shadow: 0 0 14px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+    padding: 20px 20px 10px 20px;
+
+}
+
+li.notepads-info-priority strong {
+    display: block;
+    font-size: 16px;
+    color:#FFF;
+}
+
+li.notepads-info-priority div div {
+    color:#FABBAD;
+    cursor: pointer;
+}
+
+li.notepads-info-priority div div:hover {
+    color:#FFF;
+    transition: all ease .2s;
+}
+
+li.notepads-info-priority textarea {
+    padding: 7px;
+    margin-top: 7px;
+    margin-bottom: 5px;
+    width: 100%;
+    height:130px;
+    font-size: 14px;
+    color:#FFF;
+    border:none;
+    background-color:#EB8F7A;
+    resize: none;
+}
+
+li.notepads-info-priority textarea:hover {
+    cursor:default;
+}
+
+li.notepads-info-priority span {
+    color:#FABBAD;
+    cursor:pointer;
+}
+
+li.notepads-info-priority span:hover {
+    color:#FFF;
+    transition: all ease .2s;
+}
