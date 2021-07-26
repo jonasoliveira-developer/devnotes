@@ -32,8 +32,15 @@
      <li><strong> comunicação de componentes através de PROPS;</strong></li>
      <li><strong>react HOOKS para melhorar  as logicas dos componentes;</strong></li>
      <li><strong>react HOOKS para melhorar  as logicas dos componentes;</strong></li>
+
      
 </ul>
+
+🚀 <h5>Como rodar</h5>
+<p>Escolha uma pasta e faça um clone do projeto em sua maquina com o comando "git clone <https://nome-do-link>"</p>
+ <p>Em seguida digite o comando "npm install"</p>
+ <p>Com as dependencias instaladas navegue a ate a pasta "backend" e no terminal rode o comando "npm start"</P>
+ <p>Com a API rodando navegue até a pasta "frontend" e rode o comando "npm start" </p>
 
 
 <h4>Obrigado pela visita e volte sempre!!!</h4>
